@@ -1,0 +1,12 @@
+[00:00:00.593] Server  LOG      ✓ Ready in 400ms
+[00:00:02.813] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:02.847] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:02.862] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.083] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.380] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.392] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/pD3N8Ztd3oyIbPjTGGfyJNFFp8Q.jpg" "received" null
+[00:00:04.412] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/2AdjhgGSRqD2VZDKSrMJb5N9Q6E.jpg" "received" null
+[00:00:04.425] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/taX8jcAtOhfwtby6db8eRXeWQ0Y.jpg" "received" null
+[00:00:07.348] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/99JsskDeBOy7wnGIK1BdfVkpPb4.jpg" "received" null
+[00:00:07.715] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/IyHa7Wl6q64TJ156Y2HvqvBn2A.jpg" "received" null
+[00:00:09.066] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/su5ufNBvdI8kWpEwC6rWemZjfA.jpg" "received" null
