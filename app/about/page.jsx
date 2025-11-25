@@ -1,9 +1,9 @@
 "use client";
-import HeroSection from "@/app/components/HeroSection";
-import HeroImage from "@/app/components/HeroImage";
-import StorySection from "@/app/components/StorySection";
-import ApproachSection from "@/app/components/ApproachSection";
-import TestimonialSection from "@/app/components/TestimonialSection";
+import HeroSection from "../components/HeroSection";
+import HeroImage from "../components/HeroImage";
+import StorySection from "../components/StorySection";
+import ApproachSection from "../components/ApproachSection";
+import TestimonialSection from "../components/TestimonialSection";
 
 export default function AboutPage() {
   return (
