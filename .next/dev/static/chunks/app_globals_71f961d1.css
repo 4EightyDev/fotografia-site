@@ -386,10 +386,6 @@
     border-color: var(--color-black);
   }
 
-  .bg-black {
-    background-color: var(--color-black);
-  }
-
   .bg-white {
     background-color: var(--color-white);
   }
